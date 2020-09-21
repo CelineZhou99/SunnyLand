@@ -12,12 +12,8 @@
 ## Gameplay
 Here are some screenshots of the gameplay.
 
-![Level1Start][ss1]
+![Level1Start](/screenshots/ss1.png)
 
-![Level1Middle][ss2]
+![Level1Middle](/screenshots/ss2.png)
 
-![Level2Middle][ss3]
-
-[ss1]:     screenshots/ss1.png
-[ss2]:     screenshots/ss2.png
-[ss3]:     screenshots/ss3.png
+![Level2Middle](/screenshots/ss3.png)
