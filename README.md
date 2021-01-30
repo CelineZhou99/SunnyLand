@@ -9,10 +9,15 @@
 3. Open up the game
 4. Have fun :)
 
-## Gameplay
+## Scripts
+All C# scripts written for the game is included in the scripts folder
+
+## Gallery
 Here are some screenshots of the gameplay.
 
-![SS1](screenshots/ss1.PNG)
+### Level Design
+
+![SS1](screenshots/ss1.PNG)  
 
 ![SS2](screenshots/ss2.PNG)
 
