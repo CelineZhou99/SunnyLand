@@ -1,7 +1,7 @@
 # SunnyLand
 
 ## Summary
-2D platformer made with Unity.  
+2D platformer made with Unity. 
 Cute 16 bit pixel graphics packed with different levels to conquer.   
 Collect cherries and eat a diamond for power up!  
 Jump on enemies to make them go *'poof'*! 
