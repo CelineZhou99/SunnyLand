@@ -6,6 +6,8 @@ Cute 16 bit pixel graphics packed with different levels to conquer.
 Collect cherries and eat a diamond for power up!  
 Jump on enemies to make them go *'poof'*! 
 
+Link to portfolio: https://celine-zhou-game-dev-porfolio.web.app/  
+(Demo video and description available in portfolio)
 
 ## Launch Instructions
 1. Download the Setup file (NOTE: windows setup only)
